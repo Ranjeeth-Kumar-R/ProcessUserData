@@ -1,0 +1,3 @@
+Open the ProcessData.xaml and delect the required UI Automations .
+Open the GetData.xaml and in the Outlook sequence , give corresponding email.
+Run the main.xaml.
